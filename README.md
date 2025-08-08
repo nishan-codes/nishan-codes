@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Nishan 👋
 
-<!--
-**nishan-codes/nishan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate student preparing for IELTS, with interests in web development, coding, and continuous learning.
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- React, Next.js
+- Video Editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: nishan@example.com
+- LinkedIn: [linkedin.com/in/nishan](https://linkedin.com/in/nishan)
+
+---
+
+*“Learning never exhausts the mind.” – Leonardo da Vinci*
