@@ -26,13 +26,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a driven developer from Nepal with a flair for building sleek, scalable web applications. With over 2 years of hands-on experience, I combine a strong grasp of modern frontend frameworks and backend technologies to deliver robust solutions. I take pride in shipping high-quality code that balances functionality and user experience perfectly.
+Driven my pure interest in full stack web development for 2 years, I have built numerous full stack projects which showcases my uttermost passion in this field of problem solving.
 
 ---
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishan--codes-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishan-codes)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishan--codes-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishan-shrestha-830488379)  
 [![GitHub](https://img.shields.io/badge/GitHub-nishan--codes-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishan-codes)  
 [![Email](https://img.shields.io/badge/Email-shresthanishan249@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthanishan249@gmail.com)
 
