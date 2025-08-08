@@ -1,16 +1,14 @@
 # Hello, I'm Nishan 👋
 
-I am a passionate student preparing for IELTS, with interests in web development, coding, and continuous learning.
+I am a passionate student, with uttermost interest in full stack web development, coding, and continuous learning.
 
 ## Skills
-- HTML, CSS, JavaScript
-- React, Next.js
-- Video Editing
+- Next JS | Mongo DB | Tailwind CSS
+- Video Editing (After Effects / Premiere Pro) 
 
 ## Contact
-- Email: nishan@example.com
-- LinkedIn: [linkedin.com/in/nishan](https://linkedin.com/in/nishan)
-
+- Email: shresthanishan249@gmail.com
+- LinkedIn: [linkedin.com/in/nishan-shrestha-830488379](https://www.linkedin.com/in/nishan-shrestha-830488379)
 ---
 
 *“Learning never exhausts the mind.” – Leonardo da Vinci*
