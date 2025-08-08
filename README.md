@@ -1,6 +1,6 @@
 # Hi, I'm Nishan Shrestha 👋
 
-> Passionate web developer | UI/UX enthusiast | Problem solver
+> Passionate full stack web developer | UI/UX enthusiast | Problem solver
 
 ---
 
